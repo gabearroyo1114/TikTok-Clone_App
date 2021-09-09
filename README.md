@@ -1,8 +1,8 @@
 # TikTok-Clone_App
 
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://portfolio-ashy-nine-16.vercel.app/" target="_blank">TikTok Clone App Demo</a>
+  TikTok Clone App <br/>
+  <a href="https://portfolio-ashy-nine-16.vercel.app/" target="_blank">Demo</a>
 </h2>
 
 
