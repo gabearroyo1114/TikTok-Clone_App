@@ -2,7 +2,7 @@
 
 <h2 align="center">
   TikTok Clone App <br/>
-  <a href="https://portfolio-ashy-nine-16.vercel.app/" target="_blank">Demo</a>
+  <a href="https://tiktokclone-8c717.firebaseapp.com/" target="_blank">Demo</a>
 </h2>
 
 
